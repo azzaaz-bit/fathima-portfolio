@@ -345,7 +345,7 @@ footer p {
 /* ===== Responsive ===== */
 @media (max-width: 900px) {
   .hero {
-    padding: 130px 8% 60px;
+    padding: 100px 8% 60px;
   }
 
   .hero-container {
